@@ -11,7 +11,10 @@ namespace Demo_project.Controllers
         {
             return new JsonResult
             {
-                Data = new Customer{Name = "Sujan Dey",Address = "Stavangergatn 52"},
+                Data = new Customer
+                { Name = "Sujan Dey", 
+                    Address = "Stavangergatn 52",
+                    PostalCode = "16438", City = "Stockholm" },
                 ContentType = "application/json",
                 JsonRequestBehavior = JsonRequestBehavior.AllowGet
             };
