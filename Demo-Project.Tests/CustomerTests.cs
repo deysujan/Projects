@@ -21,8 +21,6 @@ namespace Demo_Project.Tests
             }
         }
 
-
-
         [TestMethod]
         public void CustomerAddressShouldBeCorrect()
         {
