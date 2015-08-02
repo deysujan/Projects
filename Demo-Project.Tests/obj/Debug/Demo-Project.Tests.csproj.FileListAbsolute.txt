@@ -1,0 +1,16 @@
+C:\Git\SCS\Demo-Project.Tests\obj\Debug\Demo-Project.Tests.csprojResolveAssemblyReference.cache
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\Demo-Project.Tests.dll
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\Demo-Project.Tests.pdb
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\Demo-project.dll
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\System.Web.Http.dll
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\WebGrease.dll
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\Demo-project.pdb
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\System.Web.Http.xml
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Git\SCS\Demo-Project.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Git\SCS\Demo-Project.Tests\obj\Debug\Demo-Project.Tests.dll
+C:\Git\SCS\Demo-Project.Tests\obj\Debug\Demo-Project.Tests.pdb
